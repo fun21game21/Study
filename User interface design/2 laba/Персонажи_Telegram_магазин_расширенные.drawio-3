@@ -1,0 +1,341 @@
+<mxfile host="app.diagrams.net" agent="ChatGPT" pages="3">
+  <diagram id="persona-1" name="Ключевой — Алексей">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1600" pageHeight="1150" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="center" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCEBFF;strokeColor=#5B89CB;fontColor=#172B4D;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;spacing=12;" value="Алексей, 21 год&lt;br&gt;Покупатель игровых предметов" vertex="1">
+          <mxGeometry height="140" width="380" x="590" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="b1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="1. Идентификация&lt;br&gt;Алексей, 21 год; студент, игрок Minecraft." vertex="1">
+          <mxGeometry height="155" width="465" x="55" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="132.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="2. Демографические показатели&lt;br&gt;Учится в вузе; использует смартфон и Telegram; бюджет ограничен." vertex="1">
+          <mxGeometry height="155" width="465" x="55" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="337.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="3. География&lt;br&gt;Покупает дистанционно; физическое местоположение не важно." vertex="1">
+          <mxGeometry height="155" width="465" x="55" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="525" />
+              <mxPoint x="540" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="4. Темперамент&lt;br&gt;Предпочитает быстрые решения; осторожен при переводе средств." vertex="1">
+          <mxGeometry height="155" width="465" x="55" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="747.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="5. Психография&lt;br&gt;Ценит игровой прогресс, экономию времени и приватность." vertex="1">
+          <mxGeometry height="155" width="465" x="55" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="952.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="6. Ресурсы&lt;br&gt;Смартфон, Telegram, игровой аккаунт, криптокошелёк; базовые знания TON/USDT." vertex="1">
+          <mxGeometry height="155" width="465" x="1070" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="132.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="7. Опыт использования интернета&lt;br&gt;Активно пользуется Telegram и игровыми сообществами; сравнивает предложения." vertex="1">
+          <mxGeometry height="155" width="465" x="1070" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="337.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="8. Отношение к боту&lt;br&gt;Ожидает простой каталог и проверяемую оплату; не хочет отдельную регистрацию." vertex="1">
+          <mxGeometry height="155" width="465" x="1070" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="525" />
+              <mxPoint x="1040" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF0A8;strokeColor=#D4A627;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="9. Цели посещения бота&lt;br&gt;Найти кит «Иммортал» или «Топ-сет»; узнать состав и цену; купить и получить кит." vertex="1">
+          <mxGeometry height="155" width="465" x="1070" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="747.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF0A8;strokeColor=#D4A627;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="10. Что может предложить бот&lt;br&gt;Карточка кита → заказ → точная сумма TON/USDT TON/USDT TRON без комментария → автоматическая проверка поступления → статус и выдача; поддержка при ошибке." vertex="1">
+          <mxGeometry height="155" width="465" x="1070" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="952.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="persona-2" name="Второстепенный — Мария">
+    <mxGraphModel dx="1041" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1150" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="center" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCEBFF;strokeColor=#5B89CB;fontColor=#172B4D;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;spacing=12;" value="Мария, 23 года&lt;br&gt;Покупатель программ" vertex="1">
+          <mxGeometry height="140" width="380" x="590" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="b1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="1. Идентификация&lt;br&gt;Мария, 23 года; студентка-разработчик." vertex="1">
+          <mxGeometry height="155" width="465" x="55" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="132.47" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="2. Демографические показатели&lt;br&gt;Учится и пишет код; пользуется ноутбуком и смартфоном." vertex="1">
+          <mxGeometry height="155" width="465" x="55" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640.06" y="337.47" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="3. География&lt;br&gt;Ищет и получает цифровые товары дистанционно." vertex="1">
+          <mxGeometry height="155" width="465" x="55" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;" target="b3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="525" />
+              <mxPoint x="540" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="4. Темперамент&lt;br&gt;Внимательна к деталям; решение принимает после проверки описания." vertex="1">
+          <mxGeometry height="155" width="465" x="55" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640.06" y="747.47" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="5. Психография&lt;br&gt;Ценит полезность инструмента, безопасность файлов и понятные условия." vertex="1">
+          <mxGeometry height="155" width="465" x="55" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720.06" y="952.53" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="6. Ресурсы&lt;br&gt;Ноутбук, Telegram, среда разработки, кошелёк для TON/USDT при наличии." vertex="1">
+          <mxGeometry height="155" width="465" x="1070" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="132.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="7. Опыт использования интернета&lt;br&gt;Сравнивает версии ПО, читает инструкции и отзывы." vertex="1">
+          <mxGeometry height="155" width="465" x="1070" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="337.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="8. Отношение к боту&lt;br&gt;Ожидает ясного описания совместимости, лицензии и способа получения." vertex="1">
+          <mxGeometry height="155" width="465" x="1070" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;" target="b8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="525" />
+              <mxPoint x="1050" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF0A8;strokeColor=#D4A627;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="9. Цели посещения бота&lt;br&gt;Подобрать программу для программирования; уточнить функциональность; купить." vertex="1">
+          <mxGeometry height="155" width="465" x="1070" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="747.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF0A8;strokeColor=#D4A627;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="10. Что может предложить бот&lt;br&gt;Каталог и требования к ПО → заказ → точная сумма без комментария → автоматическая проверка кошелька → выдача файла/ссылки и инструкция." vertex="1">
+          <mxGeometry height="155" width="465" x="1070" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="952.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="persona-3" name="Второстепенный — Илья">
+    <mxGraphModel dx="1775" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1150" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="center" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCEBFF;strokeColor=#5B89CB;fontColor=#172B4D;fontSize=19;fontStyle=1;align=center;verticalAlign=middle;spacing=12;" value="Илья, 20 лет&lt;br&gt;Заказчик постройки в Minecraft" vertex="1">
+          <mxGeometry height="140" width="380" x="590" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="b1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="1. Идентификация&lt;br&gt;Илья, 20 лет; активный игрок DexLand («Анархия»)." vertex="1">
+          <mxGeometry height="155" width="465" x="55" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720.06" y="132.53" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="2. Демографические показатели&lt;br&gt;Молодой пользователь Telegram; играет регулярно, планирует траты." vertex="1">
+          <mxGeometry height="155" width="465" x="55" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640.06" y="337.47" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="3. География&lt;br&gt;Заказывает игровую услугу удалённо, в пределах сервера DexLand." vertex="1">
+          <mxGeometry height="155" width="465" x="55" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;" target="b3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="525" />
+              <mxPoint x="540" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="4. Темперамент&lt;br&gt;Ориентирован на результат; готов ждать, если сроки и этапы согласованы." vertex="1">
+          <mxGeometry height="155" width="465" x="55" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640.06" y="747.47" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="5. Психография&lt;br&gt;Хочет эффективную прокачку Байера и экономию игрового времени." vertex="1">
+          <mxGeometry height="155" width="465" x="55" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720.06" y="952.53" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="6. Ресурсы&lt;br&gt;Аккаунт Minecraft, Telegram, внутриигровые ресурсы, криптокошелёк." vertex="1">
+          <mxGeometry height="155" width="465" x="1070" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840.03" y="132.48" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="7. Опыт использования интернета&lt;br&gt;Смотрит игровые гайды; переписывается с исполнителями о постройках." vertex="1">
+          <mxGeometry height="155" width="465" x="1070" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920.03" y="337.52" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFD;strokeColor=#9AA9BB;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="8. Отношение к боту&lt;br&gt;Ожидает индивидуальное согласование, понятную цену и статус работы." vertex="1">
+          <mxGeometry height="155" width="465" x="1070" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;" target="b8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="525.03" />
+              <mxPoint x="1050" y="525.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF0A8;strokeColor=#D4A627;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="9. Цели посещения бота&lt;br&gt;Заказать ферму мобов с автосортировкой; согласовать требования и срок." vertex="1">
+          <mxGeometry height="155" width="465" x="1070" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920.03" y="747.52" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF0A8;strokeColor=#D4A627;fontColor=#1B2637;fontSize=15;align=left;verticalAlign=middle;spacing=14;" value="10. Что может предложить бот&lt;br&gt;Заявка → обсуждение проекта с администратором → согласование цены → уникальная точная сумма без комментария → автоматическая проверка → статусы постройки и сдача результата." vertex="1">
+          <mxGeometry height="155" width="465" x="1070" y="875" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="center" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;strokeColor=#9AA9BB;strokeWidth=2;curved=1;" target="b10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840.03" y="952.48" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
