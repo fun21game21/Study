@@ -1,0 +1,972 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" modified="2026-10-06T00:00:00.000Z" agent="ChatGPT" version="24.7.17" type="device">
+  <diagram id="A-0_Осуществлять_продажу_цифровых_товаров_до_внедрения_единого_Telegram-магазина" name="A-0 Осуществлять продажу цифровых товаров до внедрения единого Telegram-магазина">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="frame" value="" style="rounded=0;strokeColor=#24364B;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="30" width="1730" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_node" value="A-0" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="45" y="908" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_title" value="Осуществлять продажу цифровых товаров до внедрения единого Telegram-магазина" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="165" y="908" width="1440" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_page" value="лист 1" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="908" width="150" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="b0" value="&lt;b&gt;Осуществлять продажу цифровых товаров&lt;br&gt;до внедрения единого Telegram-магазина&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="575" y="330" width="650" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="i1" value="Запросы покупателей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="390" as="sourcePoint" />
+            <mxPoint x="575" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2" value="Сведения о переводах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="470" as="sourcePoint" />
+            <mxPoint x="575" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3" value="Обращения покупателей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="550" as="sourcePoint" />
+            <mxPoint x="575" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c1" value="Правила магазина" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="135" as="sourcePoint" />
+            <mxPoint x="760" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2" value="Правила проверки переводов" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="135" as="sourcePoint" />
+            <mxPoint x="1040" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o1" value="Сведения о товарах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1225" y="390" as="sourcePoint" />
+            <mxPoint x="1730" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2" value="Выданные цифровые товары" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1225" y="470" as="sourcePoint" />
+            <mxPoint x="1730" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o3" value="Ответы и статусы" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1225" y="550" as="sourcePoint" />
+            <mxPoint x="1730" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1" value="Продавец / администратор" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="850" as="sourcePoint" />
+            <mxPoint x="900" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="A0_Осуществлять_продажу_цифровых_товаров_до_внедрения_единого_Telegram-магазина" name="A0 Осуществлять продажу цифровых товаров до внедрения единого Telegram-магазина">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1160" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="frame" value="" style="rounded=0;strokeColor=#24364B;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="30" width="2130" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_node" value="A0" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1068" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_title" value="Осуществлять продажу цифровых товаров до внедрения единого Telegram-магазина" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1068" width="1840" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_page" value="лист 1" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="2005" y="1068" width="150" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="p1" value="&lt;b&gt;Публиковать сведения&lt;br&gt;о товарах&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="120" y="165" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p2" value="&lt;b&gt;Принимать&lt;br&gt;заказ&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="520" y="330" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p3" value="&lt;b&gt;Проверять&lt;br&gt;перевод&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="920" y="495" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p4" value="&lt;b&gt;Выдавать&lt;br&gt;цифровой товар&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;4&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="660" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p5" value="&lt;b&gt;Отвечать&lt;br&gt;покупателю&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;5&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="825" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="i1" value="Запросы покупателей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="230" as="sourcePoint" />
+            <mxPoint x="120" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2" value="Сведения о переводах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="560" as="sourcePoint" />
+            <mxPoint x="920" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3" value="Обращения покупателей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="890" as="sourcePoint" />
+            <mxPoint x="1720" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2" value="Правила проверки переводов" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="120" as="sourcePoint" />
+            <mxPoint x="1070" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f12" value="Выбранный товар" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="230" as="sourcePoint" />
+            <mxPoint x="520" y="395" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="230" />
+              <mxPoint x="470" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f23" value="Заказ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="395" as="sourcePoint" />
+            <mxPoint x="920" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="870" y="395" />
+              <mxPoint x="870" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f34" value="Подтверждённая оплата" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="560" as="sourcePoint" />
+            <mxPoint x="1320" y="725" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1270" y="560" />
+              <mxPoint x="1270" y="725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f45" value="Статус заказа" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1620" y="725" as="sourcePoint" />
+            <mxPoint x="1720" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1670" y="725" />
+              <mxPoint x="1670" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o1" value="Сведения о товарах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="200" as="sourcePoint" />
+            <mxPoint x="2100" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2" value="Выданные цифровые товары" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1620" y="760" as="sourcePoint" />
+            <mxPoint x="2100" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o3" value="Ответы и статусы" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2020" y="890" as="sourcePoint" />
+            <mxPoint x="2100" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="A-0_Осуществлять_деятельность_анонимного_интернет-магазина" name="A-0 Осуществлять деятельность анонимного интернет-магазина">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="frame" value="" style="rounded=0;strokeColor=#24364B;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="30" width="1730" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_node" value="A-0" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="45" y="908" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_title" value="Осуществлять деятельность анонимного интернет-магазина" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="165" y="908" width="1440" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_page" value="лист 1" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="908" width="150" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="b0" value="&lt;b&gt;Осуществлять деятельность&lt;br&gt;анонимного интернет-магазина&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="680" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="i1" value="Запросы покупателей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="385" as="sourcePoint" />
+            <mxPoint x="560" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2" value="Сведения о переводах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="465" as="sourcePoint" />
+            <mxPoint x="560" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3" value="Обращения покупателей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="545" as="sourcePoint" />
+            <mxPoint x="560" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c1" value="Правила магазина" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="135" as="sourcePoint" />
+            <mxPoint x="760" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2" value="Правила приёма и проверки&lt;br&gt;криптовалютных платежей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="135" as="sourcePoint" />
+            <mxPoint x="1040" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o1" value="Каталог и сведения о товарах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="385" as="sourcePoint" />
+            <mxPoint x="1730" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2" value="Выданные цифровые товары" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="465" as="sourcePoint" />
+            <mxPoint x="1730" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o3" value="Статусы заказов, уведомления и ответы" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="545" as="sourcePoint" />
+            <mxPoint x="1730" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1" value="Программная система магазина" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="825" y="850" as="sourcePoint" />
+            <mxPoint x="825" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m2" value="Продавец / администратор" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="850" as="sourcePoint" />
+            <mxPoint x="1040" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="A0_Осуществлять_деятельность_анонимного_интернет-магазина" name="A0 Осуществлять деятельность анонимного интернет-магазина">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1160" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="frame" value="" style="rounded=0;strokeColor=#24364B;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="30" width="2130" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_node" value="A0" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1068" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_title" value="Осуществлять деятельность анонимного интернет-магазина" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1068" width="1840" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_page" value="лист 1" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="2005" y="1068" width="150" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="a1" value="&lt;b&gt;Управлять каталогом&lt;br&gt;товаров&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="330" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="a2" value="&lt;b&gt;Осуществлять продажу&lt;br&gt;цифровых товаров с оплатой&lt;br&gt;криптовалютой&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="620" y="355" width="430" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="a3" value="&lt;b&gt;Обрабатывать обращения&lt;br&gt;покупателей&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="555" width="340" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="a4" value="&lt;b&gt;Администрировать&lt;br&gt;магазин&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;4&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="755" width="330" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="i1" value="Запросы покупателей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="245" as="sourcePoint" />
+            <mxPoint x="120" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i1b" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="245" as="sourcePoint" />
+            <mxPoint x="620" y="427" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="420" />
+              <mxPoint x="580" y="420" />
+              <mxPoint x="580" y="427" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2" value="Сведения о переводах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="480" as="sourcePoint" />
+            <mxPoint x="620" y="465" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="480" />
+              <mxPoint x="580" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3" value="Обращения покупателей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="620" as="sourcePoint" />
+            <mxPoint x="1250" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2" value="Правила приёма и проверки&lt;br&gt;криптовалютных платежей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="835" y="120" as="sourcePoint" />
+            <mxPoint x="835" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f12" value="Актуальные сведения о товарах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="245" as="sourcePoint" />
+            <mxPoint x="620" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="535" y="245" />
+              <mxPoint x="535" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f23" value="Статус заказа" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="430" as="sourcePoint" />
+            <mxPoint x="1250" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1140" y="430" />
+              <mxPoint x="1140" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f43" value="Служебное решение" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1885" y="755" as="sourcePoint" />
+            <mxPoint x="1420" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1885" y="720" />
+              <mxPoint x="1420" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o1" value="Каталог и сведения о товарах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="215" as="sourcePoint" />
+            <mxPoint x="2100" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2" value="Выданные цифровые товары" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="470" as="sourcePoint" />
+            <mxPoint x="2100" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o3" value="Статусы заказов, уведомления и ответы" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1590" y="620" as="sourcePoint" />
+            <mxPoint x="2100" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1640" y="620" />
+              <mxPoint x="1640" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="A2_Осуществлять_продажу_цифровых_товаров_с_оплатой_криптовалютой" name="A2 Осуществлять продажу цифровых товаров с оплатой криптовалютой">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1160" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="frame" value="" style="rounded=0;strokeColor=#24364B;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="30" width="2130" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_node" value="A2" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1068" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_title" value="Осуществлять продажу цифровых товаров с оплатой криптовалютой" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1068" width="1840" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_page" value="лист 1" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="2005" y="1068" width="150" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="b1" value="&lt;b&gt;Проверять доступность&lt;br&gt;товара&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b2" value="&lt;b&gt;Принимать и резервировать&lt;br&gt;заказ&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="500" y="345" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b3" value="&lt;b&gt;Формировать&lt;br&gt;платёжный запрос&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="900" y="510" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b4" value="&lt;b&gt;Проверять оплату&lt;br&gt;и завершать продажу&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;4&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="675" width="330" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="b5" value="&lt;b&gt;Выдавать&lt;br&gt;цифровой товар&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;5&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="840" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="i1" value="Запросы покупателей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="245" as="sourcePoint" />
+            <mxPoint x="100" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i_catalog" value="Актуальные сведения о товарах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="310" as="sourcePoint" />
+            <mxPoint x="100" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2" value="Сведения о переводах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="740" as="sourcePoint" />
+            <mxPoint x="1300" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2a" value="Правила приёма и проверки&lt;br&gt;криптовалютных платежей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1055" y="125" as="sourcePoint" />
+            <mxPoint x="1055" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2b" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1055" y="350" as="sourcePoint" />
+            <mxPoint x="1465" y="675" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1465" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f12" value="Выбранный доступный товар" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="245" as="sourcePoint" />
+            <mxPoint x="500" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="455" y="245" />
+              <mxPoint x="455" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f23" value="Зарезервированный заказ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="410" as="sourcePoint" />
+            <mxPoint x="900" y="575" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="855" y="410" />
+              <mxPoint x="855" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f34" value="Ожидаемый платёж" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="575" as="sourcePoint" />
+            <mxPoint x="1300" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1255" y="575" />
+              <mxPoint x="1255" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f45" value="Оплаченный заказ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1630" y="740" as="sourcePoint" />
+            <mxPoint x="1740" y="905" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1685" y="740" />
+              <mxPoint x="1685" y="905" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o1" value="Выданные цифровые товары" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2050" y="880" as="sourcePoint" />
+            <mxPoint x="2120" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2" value="Статус заказа" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2050" y="930" as="sourcePoint" />
+            <mxPoint x="2120" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="A24_Проверять_оплату_и_завершать_продажу" name="A24 Проверять оплату и завершать продажу">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1160" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="frame" value="" style="rounded=0;strokeColor=#24364B;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="30" width="2130" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_node" value="A24" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1068" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_title" value="Проверять оплату и завершать продажу" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1068" width="1840" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_page" value="лист 1" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="2005" y="1068" width="150" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="p1" value="&lt;b&gt;Получать сведения&lt;br&gt;о переводах&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="330" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p2" value="&lt;b&gt;Сопоставлять перевод&lt;br&gt;с ожидаемым платежом&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="620" y="410" width="350" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p3" value="&lt;b&gt;Подтверждать&lt;br&gt;оплату&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="590" width="330" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="p4" value="&lt;b&gt;Завершать&lt;br&gt;заказ&lt;/b&gt;&lt;br&gt;&lt;font size=&quot;12&quot;&gt;4&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.3;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="770" width="330" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="i_transfers" value="Сведения о переводах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="295" as="sourcePoint" />
+            <mxPoint x="150" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i_expected" value="Ожидаемый платёж" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="475" as="sourcePoint" />
+            <mxPoint x="620" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c2" value="Правила приёма и проверки&lt;br&gt;криптовалютных платежей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="795" y="125" as="sourcePoint" />
+            <mxPoint x="795" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f12" value="Полученный перевод" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="295" as="sourcePoint" />
+            <mxPoint x="620" y="475" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="295" />
+              <mxPoint x="560" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f23" value="Совпавший платёж" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="475" as="sourcePoint" />
+            <mxPoint x="1110" y="655" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="475" />
+              <mxPoint x="1030" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f34" value="Подтверждённая оплата" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1440" y="655" as="sourcePoint" />
+            <mxPoint x="1600" y="835" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1510" y="655" />
+              <mxPoint x="1510" y="835" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o" value="Оплаченный заказ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1930" y="835" as="sourcePoint" />
+            <mxPoint x="2120" y="835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DFD_A2_Осуществлять_продажу_цифровых_товаров_с_оплатой_криптовалютой" name="DFD A2 Осуществлять продажу цифровых товаров с оплатой криптовалютой">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1160" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="frame" value="" style="rounded=0;strokeColor=#24364B;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="30" width="2130" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_node" value="DFD A2" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1068" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_title" value="Осуществлять продажу цифровых товаров с оплатой криптовалютой" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1068" width="1840" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_page" value="лист 1" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="2005" y="1068" width="150" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="buyer" value="&lt;b&gt;Покупатель&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="catalog" value="&lt;b&gt;Подсистема каталога&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="90" y="500" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="chain" value="&lt;b&gt;Блокчейн-сеть&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="250" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="support" value="&lt;b&gt;Подсистема обращений&lt;br&gt;и уведомлений&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="700" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="proc" value="&lt;b&gt;2.0&lt;/b&gt;&lt;br&gt;&lt;b&gt;Осуществлять продажу цифровых товаров&lt;br&gt;с оплатой криптовалютой&lt;/b&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.2;fillColor=#EAF2F8;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="700" y="300" width="800" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="fb1" value="Запросы покупателей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="300" as="sourcePoint" />
+            <mxPoint x="700" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fb2" value="Платёжные реквизиты" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="420" as="sourcePoint" />
+            <mxPoint x="350" y="335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fb3" value="Выданные цифровые товары" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="520" as="sourcePoint" />
+            <mxPoint x="350" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="520" />
+              <mxPoint x="430" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fc" value="Актуальные сведения о товарах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="545" as="sourcePoint" />
+            <mxPoint x="700" y="545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fch" value="Сведения о переводах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="295" as="sourcePoint" />
+            <mxPoint x="1500" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1500" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fsup" value="Статус заказа" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1500" y="650" as="sourcePoint" />
+            <mxPoint x="1800" y="745" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1800" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DFD_A2.1_Декомпозиция_функции_A2_на_процессы_2.1-2.5" name="DFD A2.1 Декомпозиция функции A2 на процессы 2.1-2.5">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1500" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="frame" value="" style="rounded=0;strokeColor=#24364B;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="30" width="2330" height="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_node" value="DFD A2.1" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1408" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_title" value="Декомпозиция функции A2 на процессы 2.1-2.5" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1408" width="2040" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_page" value="лист 1" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="2205" y="1408" width="150" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="buyer" value="&lt;b&gt;Покупатель&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="250" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="buyer2" value="&lt;b&gt;Покупатель&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1060" width="250" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="catalog" value="&lt;b&gt;Подсистема каталога&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="70" y="480" width="300" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="chain" value="&lt;b&gt;Блокчейн-сеть&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="630" width="280" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="support" value="&lt;b&gt;Подсистема обращений&lt;br&gt;и уведомлений&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="1035" width="330" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="p21" value="&lt;b&gt;2.1&lt;/b&gt;&lt;br&gt;&lt;b&gt;Проверять доступность&lt;br&gt;товара&lt;/b&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.2;fillColor=#EAF2F8;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="430" y="180" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p22" value="&lt;b&gt;2.2&lt;/b&gt;&lt;br&gt;&lt;b&gt;Принимать и резервировать&lt;br&gt;заказ&lt;/b&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.2;fillColor=#EAF2F8;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="850" y="360" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p23" value="&lt;b&gt;2.3&lt;/b&gt;&lt;br&gt;&lt;b&gt;Формировать&lt;br&gt;платёжный запрос&lt;/b&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.2;fillColor=#EAF2F8;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="540" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p24" value="&lt;b&gt;2.4&lt;/b&gt;&lt;br&gt;&lt;b&gt;Проверять оплату&lt;br&gt;и завершать продажу&lt;/b&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.2;fillColor=#EAF2F8;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="720" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p25" value="&lt;b&gt;2.5&lt;/b&gt;&lt;br&gt;&lt;b&gt;Выдавать&lt;br&gt;цифровой товар&lt;/b&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.2;fillColor=#EAF2F8;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="1030" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="d2" value="D2 | Заказы и резервы" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=1.8;fillColor=#F7FAFC;fontFamily=DejaVu Sans;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1200" width="390" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="d3" value="D3 | Ожидаемые платежи" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=1.8;fillColor=#F7FAFC;fontFamily=DejaVu Sans;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1200" width="410" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="d4" value="D4 | Цифровые материалы" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=1.8;fillColor=#F7FAFC;fontFamily=DejaVu Sans;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="1200" width="400" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" value="Запросы покупателей" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="260" as="sourcePoint" />
+            <mxPoint x="430" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2" value="Актуальные сведения о товарах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="520" as="sourcePoint" />
+            <mxPoint x="430" y="285" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m12" value="Выбранный доступный товар" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="240" as="sourcePoint" />
+            <mxPoint x="850" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="240" />
+              <mxPoint x="800" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m23" value="Зарезервированный заказ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="420" as="sourcePoint" />
+            <mxPoint x="1270" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1220" y="420" />
+              <mxPoint x="1220" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p22d2" value="Заказ и резерв" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="480" as="sourcePoint" />
+            <mxPoint x="1010" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d2p22" value="Состояние заказа" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="1200" as="sourcePoint" />
+            <mxPoint x="880" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p23d3" value="Ожидаемый платёж" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1430" y="660" as="sourcePoint" />
+            <mxPoint x="1430" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p23buyer" value="Платёжные реквизиты" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1590" y="575" as="sourcePoint" />
+            <mxPoint x="195" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1870" y="575" />
+              <mxPoint x="1870" y="110" />
+              <mxPoint x="195" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="chainp24" value="Сведения о переводах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2040" y="670" as="sourcePoint" />
+            <mxPoint x="2010" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2010" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3p24" value="Ожидаемый платёж" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1530" y="1200" as="sourcePoint" />
+            <mxPoint x="1850" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1530" y="930" />
+              <mxPoint x="1850" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p24d2" value="Статус оплаты" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="840" as="sourcePoint" />
+            <mxPoint x="1050" y="1200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1850" y="970" />
+              <mxPoint x="1050" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m45" value="Оплаченный заказ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="840" as="sourcePoint" />
+            <mxPoint x="1850" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d4p25" value="Цифровой товар" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1840" y="1200" as="sourcePoint" />
+            <mxPoint x="1840" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p25buyer" value="Выданные цифровые товары" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1690" y="1090" as="sourcePoint" />
+            <mxPoint x="320" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p25support" value="Статус заказа" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2010" y="1090" as="sourcePoint" />
+            <mxPoint x="1990" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DFD_A24_Проверять_оплату_и_завершать_продажу" name="DFD A24 Проверять оплату и завершать продажу">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1260" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="frame" value="" style="rounded=0;strokeColor=#24364B;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="30" width="2330" height="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_node" value="DFD A24" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1168" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_title" value="Проверять оплату и завершать продажу" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=18;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1168" width="2040" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="footer_page" value="лист 1" style="rounded=0;strokeColor=#24364B;strokeWidth=1.5;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="2205" y="1168" width="150" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="chain" value="&lt;b&gt;Блокчейн-сеть&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="290" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="next" value="&lt;b&gt;Процесс 2.5&lt;br&gt;Выдавать товар&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2;fillColor=#FFFFFF;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="520" width="290" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="p241" value="&lt;b&gt;2.4.1&lt;/b&gt;&lt;br&gt;&lt;b&gt;Получать сведения&lt;br&gt;о переводах&lt;/b&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.2;fillColor=#EAF2F8;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="160" y="430" width="310" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="p242" value="&lt;b&gt;2.4.2&lt;/b&gt;&lt;br&gt;&lt;b&gt;Сопоставлять перевод&lt;br&gt;с ожидаемым платежом&lt;/b&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.2;fillColor=#EAF2F8;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="620" y="430" width="330" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="p243" value="&lt;b&gt;2.4.3&lt;/b&gt;&lt;br&gt;&lt;b&gt;Проверять параметры&lt;br&gt;и подтверждения&lt;/b&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.2;fillColor=#EAF2F8;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="430" width="330" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="p244" value="&lt;b&gt;2.4.4&lt;/b&gt;&lt;br&gt;&lt;b&gt;Фиксировать оплату&lt;br&gt;и завершать заказ&lt;/b&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=2.2;fillColor=#EAF2F8;fontFamily=DejaVu Sans;fontSize=16;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="430" width="340" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="d2" value="D2 | Заказы и резервы" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=1.8;fillColor=#F7FAFC;fontFamily=DejaVu Sans;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="800" width="400" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="d3" value="D3 | Ожидаемые платежи" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=1.8;fillColor=#F7FAFC;fontFamily=DejaVu Sans;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="550" y="800" width="420" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="d5" value="D5 | Подтверждённые платежи" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#24364B;strokeWidth=1.8;fillColor=#F7FAFC;fontFamily=DejaVu Sans;fontSize=14;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1010" width="420" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="chainin" value="Сведения о переводах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="255" as="sourcePoint" />
+            <mxPoint x="225" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p12" value="Полученный перевод" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="492" as="sourcePoint" />
+            <mxPoint x="620" y="492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3p2" value="Ожидаемый платёж" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="800" as="sourcePoint" />
+            <mxPoint x="760" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p23" value="Совпавший платёж" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="492" as="sourcePoint" />
+            <mxPoint x="1090" y="492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p34" value="Проверенный платёж" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1420" y="492" as="sourcePoint" />
+            <mxPoint x="1560" y="492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4d2" value="Статус оплаты" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1730" y="555" as="sourcePoint" />
+            <mxPoint x="1730" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4d5" value="Подтверждённый платёж" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1600" y="555" as="sourcePoint" />
+            <mxPoint x="1220" y="1010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1450" y="555" />
+              <mxPoint x="1450" y="940" />
+              <mxPoint x="1220" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="out" value="Оплаченный заказ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#24364B;strokeWidth=2;endArrow=block;endFill=1;fontFamily=DejaVu Sans;fontSize=12;labelBackgroundColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1900" y="492" as="sourcePoint" />
+            <mxPoint x="2030" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2030" y="492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
